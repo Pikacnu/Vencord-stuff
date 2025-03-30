@@ -3,7 +3,8 @@
 .childContainer__91a9d > *,
 .link__2ea32 > *,
 .containerDefault__29444 > *,
-.channel__972a0 > * {
+.channel__972a0 > *,
+.draggable__55bab > * {
 	animation-name: flip;
 	animation-duration: 0.5s;
 	animation-timing-function: linear;
@@ -13,7 +14,8 @@
 .childContainer__91a9d:hover > *,
 .link__2ea32:hover > *,
 .containerDefault__29444:hover > *,
-.channel__972a0:hover > * {
+.channel__972a0:hover > *,
+.draggable__55bab:hover > * {
 	animation-name: none;
 }
 
